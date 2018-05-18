@@ -1,7 +1,7 @@
 # so-many-games
 
 **电脑端试玩**
-
+## 这个也是例子，有需要的同学克隆参考，扫码关注那些的就先放一边吧。
 [https://potato47.github.io/so-many-games/desktop/](https://potato47.github.io/so-many-games/desktop/)
 
 **手机端扫描关注微信公众号[新手程序员]，菜单栏点击“游戏机"进入游戏**
